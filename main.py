@@ -14,5 +14,6 @@ def download_video(url):
 print(Fore.GREEN + "=======================")
 print(Fore.RED + "Hati hati penggunaan paket data")
 print(Fore.GREEN + "=======================")
+print("Youtube Vidio Downloader")
 video_url = input("Masukan Link Vidio : ")
 download_video(video_url)
